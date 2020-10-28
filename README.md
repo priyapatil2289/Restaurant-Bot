@@ -5,7 +5,7 @@ You can click on link given below and enjoy webchat with our assistant.
 
  https://www.codemenu.in
  
-Link for Demonstration of webchat :
+Video Demonstration link:
 
  https://youtu.be/GKmtBengdFY
 
@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1Ld263xIMYiWGbC9ieqeiJZTgb1zNJIdn/view?usp=drive
 
 
 
-Link for Mobile application Demonstration :
+Link for Video Demonstration of Mobile Application:
 
 https://youtu.be/N9VQ-mDoFl4
 
@@ -28,7 +28,7 @@ You can click on link given below and enjoy webchat with our assistant.
 
 https://node-red-nxpyu-2020-10-22.eu-gb.mybluemix.net/ui/#!/0?socketid=v9fj_gkiAEm3WyfxAAAc
 
-Link for demonstration :
+Link for Video demonstration :
 
 https://youtu.be/p-vF5x-Jfko
 
